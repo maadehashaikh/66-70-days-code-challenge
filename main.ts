@@ -125,6 +125,8 @@ Sarah.greet("I love Books !");
 //  interfaces are typically used when defining the shape of objects or classes, while type aliases are used to create shorter, more readable names for complex types. The choice between interfaces and type aliases often depends on the specific use case and coding style preferences.
 
 
+console.log("here is the commit of the day !!");
+
 
 
 
